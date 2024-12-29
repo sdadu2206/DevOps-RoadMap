@@ -113,4 +113,4 @@ Stay curious, keep building, and never stop automating! 💡
 
 Catch you in the next chapter of your DevOps adventure! ✨
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/posts/sdadu2206_devops-mastery-your-ultimate-roadmap-guide-activity-7279226418989817857-jSET?utm_source=share&utm_medium=member_desktop) | [hashnode](https://drops.hashnode.dev/mastering-devops-the-ultimate-roadmap)
