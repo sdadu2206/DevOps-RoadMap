@@ -1,5 +1,7 @@
 # DevOps Ultimate Roadmap
 
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/DevOps.gif?raw=true)
+
 Welcome to the ultimate DevOps roadmap! Whether you're a beginner or aiming for the next level, this guide will take you from the fundamentals to advanced concepts with real-world examples and hands-on tips. Imagine streamlining your workflows, deploying apps in seconds, and automating everything in between—sounds exciting, right? 🌟
 
 In this guide, we'll explore the tools and technologies that power the world of DevOps—from mastering Linux basics to containerizing apps with Docker and scaling them with Kubernetes. You'll get your hands dirty with version control in Git, learn the magic of CI/CD pipelines, and even dive into cloud platforms like AWS and Azure.
@@ -26,6 +28,8 @@ Git allows you to track changes, collaborate with teams & manage codebases effec
 - **Merging**
 - **Resolving Conflicts**
 
+![image](https://raw.githubusercontent.com/sdadu2206/DevOps-RoadMap/refs/heads/main/Images/1.%20VersionControl.avif)
+
 ### Build Tools & Package Manager 🛠️
 - Install dependencies
 - Execute tests
@@ -47,7 +51,11 @@ Containers are standardized units that encapsulate everything the software needs
 - Organized and versioned
 - Central storage system for managing & versioning various build artifacts
 
+![Image](https://raw.githubusercontent.com/sdadu2206/DevOps-RoadMap/refs/heads/main/Images/2.%20Nexus.avif)
+
 For Docker, we use specific registries like **DockerHub** for storing Docker images.
+
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/3.%20DockerRepo.avif)
 
 ### Cloud Basics - Cloud Infrastructure ☁️
 Cloud infrastructure is like renting space and services on someone else’s powerful computer, that you can access anytime, anywhere.
@@ -61,20 +69,34 @@ Cloud infrastructure is like renting space and services on someone else’s powe
 Now that you've mastered the fundamentals, it’s time to level up.
 
 ### Container Orchestration - Kubernetes 🚢
-Kubernetes is the most popular container orchestration platform. It automates the deployment, scaling, and management of containerized applications. Some key benefits include:
+Kubernetes is the most popular container orchestration platform. It automates the deployment, scaling, and management of containerized applications. 
 
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/4.%20K8s.avif)
+
+Some key benefits include:
 - **Self-Healing:** Restarts, reschedules, or recreates failed containers automatically.
 - **Fault Tolerance:** Shifts workloads to other nodes if a node fails.
 - **Scalability:** Easily scale apps by changing the number of replicas.
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/5.%20K8s-Replicas.avif)
 
 ### Advanced Cloud Platform - AWS, Azure, GCP, … 🌍
 - Design, build, and maintain complex cloud infrastructure
 - Scale cloud infrastructure
 - Deploy and manage clusters
 - Networking, compute, and storage services
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/6.%20AWS-CSP.avif)
 - Managed Kubernetes services like **EKS**, **AKS**, and **GKE**
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/7.%20Managed-K8s.avif)
+
+### Kubernetes as a Service:
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/8.%20K8s-service.avif)
+
+It makes it easier for developers and organizations to harness the power of Kubernetes without being burdened by its operational challenges,
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/9.%20EKS.avif)
 
 ### Continuous Integration/Continuous Delivery (CI/CD) - Jenkins, GitLab CI, GitHub Actions
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/10.%20Backbone-CICD.avif)
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/11.%20CICD.avif)
 - Set up CI/CD servers
 - Integrate code repository to trigger pipelines
 - Build streamlined workflows to build and deploy apps
@@ -84,18 +106,26 @@ Kubernetes is the most popular container orchestration platform. It automates th
 It’s time to hone your skills and dive into advanced DevOps practices.
 
 ### Infrastructure as Code (IAC) - Terraform, Pulumi 📄
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/12.%20IaC.avif)
 
 ### Programming Language - Python 🐍
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/13.%20Python.avif)
 - Most used language
 - Easy to learn (Easy syntax)
 - Large ecosystem
 - Can be used for many use cases
 
 ### Configuration Management - Ansible
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/14.%20Ansible.avif)
+
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/15.%20benefits-in-code.avif)
 
 ### Monitoring & Observability - Prometheus, Grafana 📊
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/16.%20Monitoring.avif)
 
 ### Add-On: Security 🔐
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/17.%20Security1.avif)
+![Image](https://github.com/sdadu2206/DevOps-RoadMap/blob/main/Images/18.%20Security2.avif)
 - Learn the best security practices for each technology
 - BONUS: Learn DevSecOps tools to automate security checks
 
